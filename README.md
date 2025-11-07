@@ -118,3 +118,10 @@ It combines **anonymous authentication**, **metadata privacy analysis**, and **n
 
 These projects explore both **cryptographic protocol design** and **privacy engineering**, balancing theoretical rigor with practical system design and evaluation.  
 Together, they demonstrate applied work across **secure computation**, **privacy-preserving authentication**, and **metadata resistance**.
+
+## Related Resources
+
+These projects were developed as part of **CS-523: Advanced Topics in Privacy Enhancing Technologies** at EPFL.  
+The official course repository, containing public material and project descriptions, is available here:  
+[https://github.com/lrlt11/projects_cs-253/tree/main](https://github.com/lrlt11/projects_cs-253/tree/main)
+
